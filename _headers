@@ -1,7 +1,0 @@
-# This is a comment
-/*
-  Access-Control-Allow-Origin: *
-  X-Robots-Tag: nosnippet
-
-http://57.128.188.13/api/*
-  Access-Control-Allow-Origin: 127.0.0.1:8080
